@@ -8,7 +8,7 @@ Github anasayfasından Create a new repo
 Sonrasında yerelde repo oluştur
 Örnek olarak
 $mkdir ~/start
-#yerelde yenidizin oluşturur
+//yerelde yenidizin oluşturur
 
 $git init
 #dosyayı githubın anlayacağı dile cevir
