@@ -9,7 +9,7 @@ Sonrasında yerelde repo oluştur
 Örnek olarak
 
 $mkdir ~/start
-yerelde yenidizin oluşturur
+<br />yerelde yenidizin oluşturur
 
 $git init
 dosyayı githubın anlayacağı dile cevir
