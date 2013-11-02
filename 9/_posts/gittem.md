@@ -7,14 +7,11 @@ Github anasayfasından Create a new repo
 
 Sonrasında yerelde repo oluştur
 Örnek olarak
-<br />
+
 $mkdir ~/start
-<br />
 yerelde yenidizin oluşturur
 
-<br />
 $git init
-<br />
 dosyayı githubın anlayacağı dile cevir
 
 <br />
