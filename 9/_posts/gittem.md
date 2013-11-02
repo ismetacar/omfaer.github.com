@@ -7,14 +7,20 @@ Github anasayfasından Create a new repo
 
 Sonrasında yerelde repo oluştur
 Örnek olarak
+<br />
 $mkdir ~/start
-//yerelde yenidizin oluşturur
+<br />
+yerelde yenidizin oluşturur
 
+<br />
 $git init
-#dosyayı githubın anlayacağı dile cevir
+<br />
+dosyayı githubın anlayacağı dile cevir
 
+<br />
 $touch README
-#README isimli belge oluştur
+<br />
+README isimli belge oluştur
 
 $git add README
 #README belgesini git için ekle
